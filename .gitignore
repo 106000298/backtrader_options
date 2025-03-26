@@ -15,6 +15,7 @@ build/
 venv/
 env/
 ENV/
+optionbacktest/
 
 # IDE specific files
 .idea/
