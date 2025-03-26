@@ -1,0 +1,7 @@
+backtrader==1.9.76.123
+pandas>=1.0.0
+matplotlib>=3.0.0
+numpy>=1.16.0
+TA-Lib>=0.4.0
+py_vollib>=1.0.1
+yfinance>=0.2.3 
